@@ -11,10 +11,6 @@ This is the core code from scratch to clone the landing page of Netflix using **
 ![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
 
-## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
-
-
-## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
 
 
 # 💥 How to Contribute
@@ -94,12 +90,3 @@ git push origin YourBranchName
 
 **11.** **Congratulations!** You've made your first contribution! 🙌🏼
 
-
-
-## All the best! 🥇
-
-<p align="center">
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
-
-</p>
